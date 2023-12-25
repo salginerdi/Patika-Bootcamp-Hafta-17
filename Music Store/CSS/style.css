@@ -1,0 +1,47 @@
+.header{
+    color: #EA1F59;
+    font-size: 4em;
+    text-align: center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page{
+    color: purple;
+    font-size: 2em;
+    text-align: center;
+}
+
+.h3-section{
+    color: #AF9943;
+    font-size: 2em;
+    text-align: center;
+}
+
+.list-div {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .list li {
+    margin: 5px 0; 
+    list-style-position: inside;
+  }
+
+ .about-header{
+    color: #AF9943;
+    font-size: 1.5em;
+ }
+
+
+
