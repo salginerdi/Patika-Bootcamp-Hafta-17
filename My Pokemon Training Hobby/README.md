@@ -1,4 +1,5 @@
 ## My Pokemon Training Hobby
-HTML ve CSS ile oluşturulmuş responsive tasarıma sahip hobi sitesi.
----------------------------------------------------------------------------------------------------------------------
-Hobby site with responsive design created with HTML and CSS.
+
+
+https://github.com/salginerdi/Patika-Bootcamp-Hafta-17/assets/110611268/524f25be-53a9-4b4a-b696-46392637f8b2
+
